@@ -1,18 +1,19 @@
 version: 1.0.0 [release]
 
-bot_token: 123123:qwerty
+bot_token: 7704702053:AAGUBc058Dv_Z8JJSljFmZrQ_mp8Vy7dEts
 parse_mode: html
 
-developer: "@awixa"
-admin_url: t.me/awixa
+developer: "@jakha82"
+admin_url: t.me/jakha82
 owner: 123123123
 
 vip_poll_interval: 2 # in seconds
 default_poll_interval: 10 # in seconds
 bach_size: 3 # batch users if send
 
-vip_price: 99 # stars
+vip_price: 49 # stars
 
 redis:
-  host: localhost
+  host: intense-kodiak-26020.upstash.io
   port: 6379
+  password: AWWkAAIjcDFlNWU0ODFmYTBhMDk0NWE1OWRlNDM2NDM3OGRjOTMwM3AxMA
